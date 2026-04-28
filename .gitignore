@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.out
+build/
+
+# Compiled binaries
+client
+server
+display_audio_driver
+display_audio_driver_gcc
+
+# IDE
+.qoder/
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
